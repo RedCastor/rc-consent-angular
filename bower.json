@@ -14,7 +14,7 @@
     "angularJS"
   ],
   "main": [
-    "dist/rc-consent.js"
+    "dist/rc-consent-angular.js"
   ],
   "ignore": [
     "**/.*",
