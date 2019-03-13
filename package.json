@@ -1,0 +1,29 @@
+{
+  "name": "rc-consent-angular",
+  "version": "2.0.0",
+  "author": "Auban le Grelle <auban@viamonkey.com>",
+  "homepage": "https://redcastor.io",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "description": "AngularJS Cookie consent for rc-consent.",
+  "keywords": [
+    "consent",
+    "rgpd",
+    "cookie",
+    "cookies",
+    "angular",
+    "angularJS"
+  ],
+  "main": "dist/rc-consent-angular.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:RedCastor/rc-consent-angular.git"
+  }
+}
